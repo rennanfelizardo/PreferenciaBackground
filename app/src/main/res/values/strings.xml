@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreferenciaBackground</string>
+    <string name="texto_titulo">Qual  a sua cor preferida?</string>
+    <string name="texto_azul_cor">Azul</string>
+    <string name="texto_verde_cor">Verde</string>
+    <string name="texto_vermelho_cor">Vermelho</string>
+    <string name="texto_botao_mudar">Mudar</string>
+</resources>
